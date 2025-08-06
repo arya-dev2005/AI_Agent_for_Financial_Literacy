@@ -1,6 +1,6 @@
-# IBM SkillsBuild 4-Week Internship Portfolio
+# IBM SkillsBuild 4-Week Internship
 
-Welcome to my GitHub portfolio showcasing the projects and certificates I earned during the **IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies**, organized by **Edunet Foundation**.
+Welcome to my GitHub profile showcasing the projects and certificates I earned during the **IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies**, organized by **Edunet Foundation**.
 
 ---
 
