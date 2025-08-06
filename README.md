@@ -17,7 +17,6 @@ Welcome to my GitHub portfolio showcasing the projects and certificates I earned
 * Artificial Intelligence (AI)
 * Cloud Computing
 * Data Science
-* DevOps Practices
 
 ---
 
@@ -27,9 +26,8 @@ Throughout this internship, I developed the following projects to deepen my unde
 
 | Project Name  | Description                                                  | Link                                  |
 | ------------- | ------------------------------------------------------------ | ------------------------------------- |
-| **Project 1** | Brief description of project 1, key objectives and features. | [View Project 1](./projects/project1) |
-| **Project 2** | Brief description of project 2, key objectives and features. | [View Project 2](./projects/project2) |
-| **Project 3** | Brief description of project 3, key objectives and features. | [View Project 3](./projects/project3) |
+| **RAG Lab** | RAG Lab on IBM Cloud Using LangChain. | [View Project 1](./recipes/RAG/RAG_with_Langchain.ipynb) |
+| **AI Agent** | AI Agent provides Financial Literacy. | [View Project 2](./projects/project2) |
 
 > 💼 *Feel free to clone the projects folder and run the notebooks or applications locally.*
 
@@ -39,44 +37,12 @@ Throughout this internship, I developed the following projects to deepen my unde
 
 During the internship, I completed several courses and assessments to earn certificates. Below are my achievements:
 
-* ![Certificate: AI Foundations](https://img.shields.io/badge/Certificate-AI%20Foundations-blue)
-* ![Certificate: Cloud Essentials](https://img.shields.io/badge/Certificate-Cloud%20Essentials-lightgrey)
-* ![Certificate: Data Science Basics](https://img.shields.io/badge/Certificate-Data%20Science%20Basics-orange)
+* ![Certificate: Getting Started with Artificial Intelligence](https://www.credly.com/badges/b3cb5e1c-7dd5-4d69-9645-e377dff6d73f/public_url)
+* ![Certificate: Journey to Cloud: Envisioning Your Solution](https://www.credly.com/badges/1654d9a2-c8c9-4168-a2b4-c576bbdf6422/public_url)
+* ![Certificate: RAG with LangChain](https://skills.yourlearning.ibm.com/certificate/share/be9883a897ewogICJvYmplY3RJZCIgOiAiQUxNLUNPVVJTRV8zODI0OTk4IiwKICAibGVhcm5lckNOVU0iIDogIjQyMDIyNDNSRUciLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIKfQ71c81948d8-10)
 * ![Certificate: DevOps Practices](https://img.shields.io/badge/Certificate-DevOps%20Practices-green)
 
 > 📄 *Click the badge to view/download the certificate.*
-
----
-
-## 🚀 Getting Started
-
-1. **Clone this repository:**
-
-   ```bash
-   git clone https://github.com/your-username/ibm-skillsbuild-portfolio.git
-   ```
-2. **Navigate to the projects directory:**
-
-   ```bash
-   cd ibm-skillsbuild-portfolio/projects
-   ```
-3. **Install dependencies (if any):**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. **Open notebooks or run applications:**
-
-   * Jupyter notebooks: `jupyter notebook`
-   * Python scripts: `python script.py`
-
----
-
-## 🌟 Next Steps
-
-* Continue enhancing the internship projects with advanced features.
-* Share insights and lessons learned through blog posts or presentations.
-* Explore additional IBM Cloud services and AI frameworks.
 
 ---
 
