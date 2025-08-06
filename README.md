@@ -37,10 +37,10 @@ Throughout this internship, I developed the following projects to deepen my unde
 
 During the internship, I completed several courses and assessments to earn certificates. Below are my achievements:
 
-* ![Certificate: Getting Started with Artificial Intelligence](https://www.credly.com/badges/b3cb5e1c-7dd5-4d69-9645-e377dff6d73f/public_url)
-* ![Certificate: Journey to Cloud: Envisioning Your Solution](https://www.credly.com/badges/1654d9a2-c8c9-4168-a2b4-c576bbdf6422/public_url)
-* ![Certificate: RAG with LangChain](https://skills.yourlearning.ibm.com/certificate/share/be9883a897ewogICJvYmplY3RJZCIgOiAiQUxNLUNPVVJTRV8zODI0OTk4IiwKICAibGVhcm5lckNOVU0iIDogIjQyMDIyNDNSRUciLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIKfQ71c81948d8-10)
-* ![Certificate: DevOps Practices]([https://img.shields.io/badge/Certificate-DevOps%20Practices-green](./Certificates/IBMDesign20250719-26-wfrqio.pdf))
+* ![Certificate: Getting Started with Artificial Intelligence](./Certificates/IBMDesign20250719-26-wfrqio.pdf)
+* ![Certificate: Journey to Cloud: Envisioning Your Solution](./Certificates/IBMDesign20250719-26-wynmwb.pdf)
+* ![Certificate: RAG with LangChain](./Certificates/IBM_SkillsBuild_RAG_LangChain.pdf)
+* ![Certificate: DevOps Practices](./Certificates/IBM_SkillsBuild_Intro_RAG.pdf)
 
 > 📄 *Click the badge to view/download the certificate.*
 
@@ -48,9 +48,8 @@ During the internship, I completed several courses and assessments to earn certi
 
 ## 📫 Connect with Me
 
-* **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-profile)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **Portfolio:** [https://your-portfolio.example.com](https://your-portfolio.example.com)
+* **LinkedIn:** [Arya Das](https://www.linkedin.com/in/aryaxplorer/)
+* **Email:** [aryadas.dev@gmail.com](mailto:aryadas.dev@gmail.com)
 
 ---
 
